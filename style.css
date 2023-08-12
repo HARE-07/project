@@ -1,0 +1,46 @@
+body{
+    background-color:whitesmoke;
+}
+
+.iteam{
+    background-color: black;
+}
+.nav-link{
+    color: aliceblue;
+    font-size: larger;
+}
+
+.arrow{
+    height: 40px;
+    
+}
+
+
+
+h1{
+    font-size: large;
+    font-weight: 100;
+    font-style: italic;
+    color: #000;
+}
+p{
+    color:#000;
+}
+.h-block{
+    text-align: right;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.computer-img{
+    width: fit-content;
+    height: fit-content;
+}
+.phone-img{
+    width: fit-content;
+    height: fit-content;
+}
+.img-block{
+    width: 500px;
+    height: 400px;
+}
